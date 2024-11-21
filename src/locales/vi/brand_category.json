@@ -1,0 +1,10 @@
+{
+  "brand": "Thương hiệu",
+  "category": "Danh mục",
+  "title": "Tiêu đề",
+  "action": "Hành động",
+  "acceptDelete": "Bạn có chắc chắn muốn xóa mục này?",
+  "desDelete": "Xóa mục này",
+  "okText": "Có",
+  "cancelText": "Không"
+}

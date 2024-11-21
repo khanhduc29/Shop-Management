@@ -1,0 +1,20 @@
+{
+  "overview": "Tổng quan",
+  "totalrevenue": "Tổng doanh thu",
+  "totalSoldProd": "Tổng sản phẩm đã bán",
+  "inStockProd": "Tổng sản phẩm còn hàng",
+  "userReg": "Người dùng đăng ký",
+  "revenued": "Doanh thu (Hàng ngày)",
+  "revenueM": "Doanh thu (Hàng tháng)",
+  "revenueQ": "Doanh thu (Hàng quý)",
+  "revenueY": "Doanh thu (Hàng năm)",
+  "pro": "sản phẩm",
+  "last24hours": "Trong 24 giờ qua",
+  "topViewsProd": "Sản phẩm được xem nhiều nhất",
+  "prod": "Sản phẩm",
+  "createProd": "Tạo sản phẩm mới",
+  "discount": "Giảm giá",
+  "createDiscount": "Tạo mã giảm giá mới",
+  "blog": "Blog",
+  "createBlog": "Tạo bài viết mới"
+}

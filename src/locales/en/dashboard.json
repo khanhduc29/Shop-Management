@@ -1,0 +1,20 @@
+{
+  "overview": "Overview",
+  "totalrevenue": "Total Revenues",
+  "totalSoldProd": "Total Sold Products",
+  "inStockProd": "In Stock Products",
+  "userReg": "User Registrations",
+  "revenued": "Revenues (Daily)",
+  "revenueM": "Revenues (Monthly)",
+  "revenueQ": "Revenues (Quarterly)",
+  "revenueY": "Revenues (Yearly)",
+  "pro": "products",
+  "last24hours": "Last 24 hours",
+  "topViewsProd": "Top Views Products",
+  "prod": "Product",
+  "createProd": "Create a new Product",
+  "discount": "Discount",
+  "createDiscount": "Create a new Discount",
+  "blog": "Blog",
+  "createBlog": "Create a new Blog"
+}

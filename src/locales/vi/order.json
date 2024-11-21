@@ -1,0 +1,20 @@
+{
+  "total": "Tổng cộng",
+  "user": "Người dùng",
+  "status": "Trạng thái",
+  "action": "Hành động",
+  "order": "Đơn hàng",
+  "orderDetail": "Chi tiết đơn hàng",
+  "processing": "Đang xử lý",
+  "completed": "Hoàn thành",
+  "cancelled": "Đã hủy",
+  "customer": "Khách hàng",
+  "contactInfo": "Thông tin liên hệ",
+  "shippingAddress": "Địa chỉ giao hàng",
+  "paymentInfo": "Thông tin thanh toán",
+  "cod": "Thanh toán khi nhận hàng",
+  "subtotal": "Tạm tính",
+  "shippingFee": "Phí vận chuyển",
+  "discount": "Giảm giá",
+  "orders": "đơn hàng"
+}

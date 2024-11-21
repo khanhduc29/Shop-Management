@@ -1,0 +1,20 @@
+{
+  "total": "Total",
+  "user": "User",
+  "status": "Status",
+  "action": "Action",
+  "order": "Order",
+  "orderDetail": "Order Detail",
+  "processing": "Processing",
+  "completed": "Completed",
+  "cancelled": "Cancelled",
+  "customer": "Customer",
+  "contactInfo": "Contact Information",
+  "shippingAddress": "Shipping Address",
+  "paymentInfo": "Payment Information",
+  "cod": "Cash on Delivery",
+  "subtotal": "Subtotal",
+  "shippingFee": "Shipping Fee",
+  "discount": "Discount",
+  "orders": "orders"
+}
